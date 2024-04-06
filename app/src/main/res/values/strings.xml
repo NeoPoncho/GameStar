@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GameStar</string>
+    <string-array name="Type">
+        <item>First Person Shooter</item>
+        <item>Fighting</item>
+        <item>Open World</item>
+        <item>Role Playing Game</item>
+        <item>Adventure</item>
+        <item>Competitive</item>
+        <item>Multiplayer</item>
+        <item>Simulation</item>
+        <item>Survival</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
